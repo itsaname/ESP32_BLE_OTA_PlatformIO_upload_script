@@ -10,11 +10,11 @@ Modified from https://github.com/fbiego/BLE_OTA_Python
 ## Usage
 add 
 
-`extra_scripts = bleota.py
+`extra_scripts = bleota.py`
 
-upload_protocol = custom
+`upload_protocol = custom`
 
-MAC_ADDR = your device mac here`
+`MAC_ADDR = your device mac here`
 
 in platformio.ini
 
