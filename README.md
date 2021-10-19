@@ -16,6 +16,6 @@ add
 
 `MAC_ADDR = your device mac here`
 
-in platformio.ini
+in `platformio.ini`
 
-and paste `bleota.py` near platformio.ini
+and paste `bleota.py` near `platformio.ini`
